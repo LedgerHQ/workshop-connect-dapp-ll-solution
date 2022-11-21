@@ -3,7 +3,7 @@ import { ethers } from "ethers";
 
 /* STEP #6
     TODO: Develop the logic to send a transaction
-    TIP: There is a hook from the Wagmi documentation to send a transaction
+    TIP: There is a hook in the wagmi documentation to send a transaction
     Link of the documentation: https://wagmi.sh/docs/getting-started
 */
 const useRewardAuthor = () => {
